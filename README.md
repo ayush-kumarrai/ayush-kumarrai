@@ -1,4 +1,4 @@
-![logo](https://github.com/ayush-kumarrai/ayush-kumarrai/blob/main/GitHub%20banner.png)
+<!--![logo](https://github.com/ayush-kumarrai/ayush-kumarrai/blob/main/GitHub%20banner.png)-->
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar Rai</h1>
 <h3 align="center">AI/ML Student | DSA & Web Dev in Progress</h3>
@@ -11,18 +11,18 @@
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Ayush-Kumar-Rai-38](https://www.quora.com/profile/Ayush-Kumar-Rai-38)
 
-- 💬 Ask me about **Firebase**
+- 💬 Ask me about **MERN Web Development**
 
 - 📫 How to reach me **raiayush913@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayush_kumarrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush_kumarrai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-kumar-rai-314068205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-rai-314068205" height="30" width="40" /></a>
-<a href="https://fb.com/ayushkumarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushkumarai" height="30" width="40" /></a>
+<!--<a href="https://linkedin.com/in/ayush-kumar-rai-314068205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-rai-314068205" height="30" width="40" /></a>-->
+<!--<a href="https://fb.com/ayushkumarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushkumarai" height="30" width="40" /></a>-->
 <a href="https://instagram.com/ayush._rai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush._rai_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/youtubentorq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtubentorq" height="30" width="40" /></a>
-<a href="https://discord.gg/ayush_kumar_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayush_kumar_rai" height="30" width="40" /></a>
+<!--<a href="https://discord.gg/ayush_kumar_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayush_kumar_rai" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
