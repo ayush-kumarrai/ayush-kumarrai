@@ -1,4 +1,7 @@
 <!--![logo](https://github.com/ayush-kumarrai/ayush-kumarrai/blob/main/GitHub%20banner.png)-->
+# Ayush Kumar Rai
+
+Full Stack Web Developer and AIML student based in India.
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar Rai</h1>
 <h3 align="center">AI/ML Student | DSA & Web Dev in Progress</h3>
