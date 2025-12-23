@@ -32,3 +32,9 @@
 <p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-kumarrai&show_icons=true&locale=en&layout=compact" alt="ayush-kumarrai" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-kumarrai&" alt="ayush-kumarrai" /></p>
+
+## About Me
+
+I’m Ayush Kumar Rai, a Full Stack Web Developer and Artificial Intelligence & Machine Learning (AIML) student.
+I build web applications, work on machine learning projects, and document my learning journey in public.
+
